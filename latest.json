@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "notes": "Initial release",
+  "pub_date": "2026-03-01T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/galley-labs/galley-releases/releases/download/v0.0.1/Galley.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdkFvRW81aFgxRDdVR2NiM1FOZlFQT2NZNTdZVjlINWhRR2dyMi9GT1NLclRxOHNFQ3BlYy9kcjllVnFsS3hENGRWeCtoNFBoQ0I3QnRERWMwK2Foc0RUaTZxRlArNlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDA0OTU5CWZpbGU6R2FsbGV5LmFwcC50YXIuZ3oKNXd1MXpIK2ZEdFJxQlNxSVYrTE96bzFORUo5bmhMYzFpaEF6UVl1Y0pHakRWdVZEakJTcHBsdU5rUHY5UjBnZEltdkZBaUFsSjB6UG5VZjZWZ2ZTQ0E9PQo="
+    }
+  }
+}
