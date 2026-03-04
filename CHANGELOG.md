@@ -16,3 +16,10 @@ Galley uses [semantic versioning](https://semver.org/).
 ### Added
 
 - Initial release of the Galley desktop application.
+
+## [0.0.2] - 2026-03-04
+
+### Added
+
+- Add diagram JSON support.
+- Fix diagram persistence bug.
